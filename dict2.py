@@ -1,3 +1,5 @@
+# Delete a list of keys from a dictionary
+
 sample_dict = {
     "name": "Kelly",
     "age": 25,
